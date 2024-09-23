@@ -22,4 +22,44 @@ This is the Footer section:
 This is oher Pages:
 
 
+![15](https://github.com/user-attachments/assets/2b92a1cc-6eb4-499b-b234-b2bfbaab2cd9)
+
+![16](https://github.com/user-attachments/assets/d8f150db-bcc8-48c2-91e6-1e1ecfe66855)
+![17](https://github.com/user-attachments/assets/a23a76fa-c8c5-4132-a1ec-78bd9cf33af2)
+
+This is Profile section:
+![18](https://github.com/user-attachments/assets/e4431c3c-d554-4894-a935-b0664ffbe97e)
+
+![19](https://github.com/user-attachments/assets/6e942070-935c-4e5e-8541-4f314af90648)
+
+![20](https://github.com/user-attachments/assets/a64b127a-3f21-4b01-9d77-076f4a3c657a)
+
+
+This is Liked Product section:
+
+
+
+![21](https://github.com/user-attachments/assets/a731952c-6067-4593-af43-319b22742c1a)
+
+
+Thsi is ShoppingCart section:
+
+
+
+![22](https://github.com/user-attachments/assets/6c7276c6-220c-4bb4-bdc1-7405c2f49bac)
+![23](https://github.com/user-attachments/assets/87addaa3-ff5b-4df8-836f-89766b30f022)
+
+This is Signing and Signup section:
+
+
+![25](https://github.com/user-attachments/assets/914e445c-18f7-4f95-aed6-57531b29a04f)
+
+
+
+![24](https://github.com/user-attachments/assets/92afa199-5c11-4f79-a89b-2b1d503f20bd)
+
+
+
+
+
 
