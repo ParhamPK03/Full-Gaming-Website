@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Navbar Main input*/
+.input-container {
+    position: relative;
+  }
+  
+  .input-placeholder {
+    transition: opacity 0.3s ease;
+    opacity: 1;
+  }
+  
+  .input-placeholder.hide-placeholder {
+    opacity: 0;
+  }
+  /*  */
+  .custom-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  
+  .custom-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: rgb(255, 255, 255); /* رنگ قرمز برای pagination */
+    margin: 0 5px;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .custom-pagination .swiper-pagination-bullet-active {
+    background-color: rgb(255, 0, 0); /* رنگ متفاوت برای دایره فعال */
+  }
+  /*  */
+  .image-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    transition: transform 0.3s ease;
+  }
+  
+  .image-container:hover img {
+    transform: scale(1.04);
+  }
+  /* Second Shopping Cart*/
+  input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+

@@ -1,0 +1,46 @@
+{
+  "name": "gamingwebsite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.18",
+    "idb": "^8.0.0",
+    "leaflet": "^1.9.4",
+    "local-storage": "^2.0.0",
+    "medium-zoom": "^1.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "react-leaflet": "^4.2.1",
+    "react-medium-image-zoom": "^5.2.9",
+    "react-router-dom": "^6.26.1",
+    "react-spinners": "^0.14.1",
+    "react-toastify": "^10.0.5",
+    "sweetalert2": "^11.12.4",
+    "swiper": "^11.1.12",
+    "typewriter-effect": "^2.21.0",
+    "use-local-storage": "^3.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.4.1"
+  }
+}
