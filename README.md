@@ -1,62 +1,27 @@
 # Full-Gaming-Website
- This is a big online-website for PC , and...
-![1](https://github.com/user-attachments/assets/7ffaef97-9378-40ac-8b75-63501a10f022)
-Main section:
-
-![2](https://github.com/user-attachments/assets/fda8375d-21fc-4ea3-9d08-814a99dc77b4)
-![3](https://github.com/user-attachments/assets/22e4ce65-7978-4553-b1d8-e11d0cb09692)
-![4](https://github.com/user-attachments/assets/abdbc9e8-93c0-4c3c-9c49-6487af0a703c)
-![5](https://github.com/user-attachments/assets/f8b34332-33e1-44ca-8b34-ea5ce852bc90)
-![6](https://github.com/user-attachments/assets/8e379319-1d18-4aae-acf6-adb4ac96c372)
-![7](https://github.com/user-attachments/assets/7e0addd0-e7ba-465d-9fd5-5c1c263ae9db)
-![8](https://github.com/user-attachments/assets/f48eee5d-4c7b-4eb5-9a3e-20e872cf2225)
-![9](https://github.com/user-attachments/assets/17798b0a-78df-40c9-b5cb-f3820c6cb0c2)
-![10](https://github.com/user-attachments/assets/4e6b893b-d8e3-442a-82aa-948613ca9176)
-![11](https://github.com/user-attachments/assets/5072cf6e-a591-4dae-a426-6b574b56db7e)
-![12](https://github.com/user-attachments/assets/16a75b54-83e3-4312-a42d-fd98cc01c423)
-![13](https://github.com/user-attachments/assets/2a951a8f-438a-4569-bb20-4076ff93aad6)
-
-This is the Footer section:
-![14](https://github.com/user-attachments/assets/b6581f39-9782-4dde-a8f2-cdb21f85d31d)
-
-This is oher Pages:
-
-
-![15](https://github.com/user-attachments/assets/2b92a1cc-6eb4-499b-b234-b2bfbaab2cd9)
-
-![16](https://github.com/user-attachments/assets/d8f150db-bcc8-48c2-91e6-1e1ecfe66855)
-![17](https://github.com/user-attachments/assets/a23a76fa-c8c5-4132-a1ec-78bd9cf33af2)
-
-This is Profile section:
-![18](https://github.com/user-attachments/assets/e4431c3c-d554-4894-a935-b0664ffbe97e)
-
-![19](https://github.com/user-attachments/assets/6e942070-935c-4e5e-8541-4f314af90648)
-
-![20](https://github.com/user-attachments/assets/a64b127a-3f21-4b01-9d77-076f4a3c657a)
-
-
-This is Liked Product section:
-
-
-
-![21](https://github.com/user-attachments/assets/a731952c-6067-4593-af43-319b22742c1a)
-
-
-Thsi is ShoppingCart section:
-
-
-
-![22](https://github.com/user-attachments/assets/6c7276c6-220c-4bb4-bdc1-7405c2f49bac)
-![23](https://github.com/user-attachments/assets/87addaa3-ff5b-4df8-836f-89766b30f022)
-
-This is Signing and Signup section:
-
-
-![25](https://github.com/user-attachments/assets/914e445c-18f7-4f95-aed6-57531b29a04f)
-
-
-
-![24](https://github.com/user-attachments/assets/92afa199-5c11-4f79-a89b-2b1d503f20bd)
+ Hello This is My Gaming Online Shop Website
+![Screenshot 2024-11-03 112335](https://github.com/user-attachments/assets/3716a2c7-7188-4272-8aa3-6be10394647a)
+![Screenshot 2024-11-03 112350](https://github.com/user-attachments/assets/6683e832-da27-4621-bf09-790dd7900c55)
+![Screenshot 2024-11-03 112401](https://github.com/user-attachments/assets/cf673f82-a755-42bb-98fc-41e3978223b3)
+![Screenshot 2024-11-03 112422](https://github.com/user-attachments/assets/4495e8b4-a672-4887-b667-09b9186d2133)
+![Screenshot 2024-11-03 112438](https://github.com/user-attachments/assets/eaa22402-0d71-4d41-bbcc-86e9576331a5)
+![Screenshot 2024-11-03 112447](https://github.com/user-attachments/assets/f145fd90-322b-4876-aaba-b4969a7b6fcd)
+![Screenshot 2024-11-03 112456](https://github.com/user-attachments/assets/5ccccea5-f833-400f-8a9a-e37af312a804)
+![Screenshot 2024-11-03 112505](https://github.com/user-attachments/assets/8e54be97-39a7-4f65-b2f9-a04e8d893d04)
+![Screenshot 2024-11-03 112535](https://github.com/user-attachments/assets/9ab5ff62-63d5-4526-b696-a05f595598f5)
+![Screenshot 2024-11-03 112552](https://github.com/user-attachments/assets/5d30add1-2eb5-4b91-8459-b8cf718ddbad)
+![Screenshot 2024-11-03 112559](https://github.com/user-attachments/assets/2ff76b4f-ff36-402b-8407-9440d7c151db)
+![Screenshot 2024-11-03 112605](https://github.com/user-attachments/assets/9cc8f713-597b-4537-b230-00a6230b4b3b)
+![Screenshot 2024-11-03 112622](https://github.com/user-attachments/assets/d065b03d-919a-43b8-b508-c7d94da2f2bf)
+![Screenshot 2024-11-03 112650](https://github.com/user-attachments/assets/8ae45b38-050e-4026-8f6a-d06056e58b28)
+![Screenshot 2024-11-03 112657](https://github.com/user-attachments/assets/17121b04-af76-48af-b514-a8552e2579ca)
+![Screenshot 2024-11-03 112704](https://github.com/user-attachments/assets/f3bcf2a6-f74a-4828-82ca-e625ec6405ef)
+![Screenshot 2024-11-03 113030](https://github.com/user-attachments/assets/475d7656-dedb-460f-9f28-2f6ef697c181)
+![Screenshot 2024-11-03 113128](https://github.com/user-attachments/assets/c9242c18-5302-4322-9e22-16dc8a25fb3e)
+![Screenshot 2024-11-03 113151](https://github.com/user-attachments/assets/81dd0934-4b6d-461c-ab13-bc2e0129d286)
+![Screenshot 2024-11-03 113253](https://github.com/user-attachments/assets/16288da6-d54a-4d34-9fee-a4db7ef0bdc8)
+![Screenshot 2024-11-03 113358](https://github.com/user-attachments/assets/36d77409-98f2-45dc-b738-eaaa5e6c4818)
+![Screenshot 2024-11-03 113409](https://github.com/user-attachments/assets/12207607-9024-4a77-81bb-447cdce39e26)
 
 
 
